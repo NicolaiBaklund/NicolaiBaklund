@@ -7,7 +7,7 @@ I'm a second-year Computer Science student at **NTNU**, passionate about **data 
 
 ### 🔭 Current Engagement
 - **Data Scientist @ ReLU NTNU**  
-  Working with applied machine learning, modeling, and data-driven problem solving.
+  Working with applied machine learning, modeling, data-driven problem solving and LLMs.
 
 ---
 
