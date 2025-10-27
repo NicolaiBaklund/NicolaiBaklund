@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nicolai Baklund
+# Hi, I'm Nicolai Baklund
 
 I'm a second-year Computer Science student at **NTNU**, passionate about **data science**, **machine learning**, **mathematics**, and **statistics**.  
 
