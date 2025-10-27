@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicolai Baklund
 
-<!--
-**NicolaiBaklund/NicolaiBaklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student at **NTNU**, passionate about **data science**, **machine learning**, **mathematics**, and **statistics**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Engagement
+- **Data Scientist @ ReLU NTNU**  
+  Working with applied machine learning, modeling, and data-driven problem solving.
+
+---
+
+### 🧠 Interests
+- Machine Learning & Deep Learning  
+- Mathematical Modeling & Optimization  
+- Reinforcement Learning  
+- Data Analysis & Visualization  
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**  
+- Python  
+- C++
+
+**ML & Data Libraries**  
+- PyTorch  
+- TensorFlow  
+- NumPy  
+- pandas  
+
+---
+
+### 🚧 Current Project
+**NumPyML:** My own machine learning framework built **from scratch using just NumPy**.  
+Currently integrating it into reinforcement learning workflows.
+
+---
+
+### 🗂️ Previous Projects
+**light_NN:** An implementation of a fully functional multi-layer perceptron **in C++** without external libraries.  
+Focused on core NN operations, forward/backpropagation
+
